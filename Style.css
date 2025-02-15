@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2cm;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
